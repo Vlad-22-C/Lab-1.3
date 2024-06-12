@@ -1,0 +1,15 @@
+C:\Users\sz220\OneDrive\Desktop\Новая папка\Lab1.3\Lab1.3\obj\Debug\Lab1.3.csproj.AssemblyReference.cache
+C:\Users\sz220\OneDrive\Desktop\Новая папка\Lab1.3\Lab1.3\obj\Debug\MainWindow.g.cs
+C:\Users\sz220\OneDrive\Desktop\Новая папка\Lab1.3\Lab1.3\obj\Debug\App.g.cs
+C:\Users\sz220\OneDrive\Desktop\Новая папка\Lab1.3\Lab1.3\obj\Debug\Lab1.3_MarkupCompile.cache
+C:\Users\sz220\OneDrive\Desktop\Новая папка\Lab1.3\Lab1.3\obj\Debug\Lab1.3_MarkupCompile.lref
+C:\Users\sz220\OneDrive\Desktop\Новая папка\Lab1.3\Lab1.3\bin\Debug\Lab1.3.exe.config
+C:\Users\sz220\OneDrive\Desktop\Новая папка\Lab1.3\Lab1.3\bin\Debug\Lab1.3.exe
+C:\Users\sz220\OneDrive\Desktop\Новая папка\Lab1.3\Lab1.3\bin\Debug\Lab1.3.pdb
+C:\Users\sz220\OneDrive\Desktop\Новая папка\Lab1.3\Lab1.3\obj\Debug\MainWindow.baml
+C:\Users\sz220\OneDrive\Desktop\Новая папка\Lab1.3\Lab1.3\obj\Debug\Lab1.3.g.resources
+C:\Users\sz220\OneDrive\Desktop\Новая папка\Lab1.3\Lab1.3\obj\Debug\Lab1._3.Properties.Resources.resources
+C:\Users\sz220\OneDrive\Desktop\Новая папка\Lab1.3\Lab1.3\obj\Debug\Lab1.3.csproj.GenerateResource.cache
+C:\Users\sz220\OneDrive\Desktop\Новая папка\Lab1.3\Lab1.3\obj\Debug\Lab1.3.csproj.CoreCompileInputs.cache
+C:\Users\sz220\OneDrive\Desktop\Новая папка\Lab1.3\Lab1.3\obj\Debug\Lab1.3.exe
+C:\Users\sz220\OneDrive\Desktop\Новая папка\Lab1.3\Lab1.3\obj\Debug\Lab1.3.pdb
